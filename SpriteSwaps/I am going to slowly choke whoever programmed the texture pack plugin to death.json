@@ -1,27 +1,27 @@
 {
-	"Slap_Sheet_0":{
-		"Sprite":"SlapAlt1.png",
-		"PixelsPerUnit":26,
+	"Slap_Sheet.0":{
+		"Sprite":"SlapAlt1",
+		"PixelsPerUnit":128,
 		"Pivot":[0.5,0.5]
 	},
-	"Slap_Sheet_1":{
-		"Sprite":"SlapAlt2.png",
-		"PixelsPerUnit":26,
+	"Slap_Sheet.1":{
+		"Sprite":"SlapAlt2",
+		"PixelsPerUnit":128,
 		"Pivot":[0.5,0.5]
 	},
-	"Slap_Sheet_2":{
-		"Sprite":"SlapAlt3.png",
-		"PixelsPerUnit":26,
+	"Slap_Sheet.2":{
+		"Sprite":"SlapAlt3",
+		"PixelsPerUnit":128,
 		"Pivot":[0.5,0.5]
 	},
-	"Slap_Sheet_3":{
-		"Sprite":"SlapAlt4.png",
-		"PixelsPerUnit":26,
+	"Slap_Sheet.3":{
+		"Sprite":"SlapAlt4",
+		"PixelsPerUnit":128,
 		"Pivot":[0.5,0.5]
 	},
-	"Slap_Sheet_4":{
-		"Sprite":"SlapAlt5.png",
-		"PixelsPerUnit":26,
+	"Slap_Sheet.4":{
+		"Sprite":"SlapAlt5",
+		"PixelsPerUnit":128,
 		"Pivot":[0.5,0.5]
 	}
 }
