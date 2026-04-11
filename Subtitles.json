@@ -16,8 +16,8 @@
 {"key":"Itm_GrapplingHook2","value":"(2) Grappling Hook"},
 {"key":"Itm_GrapplingHook1","value":"(1) Grappling Hook"},
 {"key":"Itm_NoSquee","value":"WD-NoSquee"},
-{"key":"Itm_Quarter","value":"Quarter"},
-{"key":"Itm_DoorLock","value":"Swinging Door Lock"},
+{"key":"Itm_Quarter","value":"Saul One Pound Coin"},
+{"key":"Itm_DoorLock","value":"Silly Lock"},
 {"key":"Itm_Tape","value":"Saul's Least Favorite Tape"},
 {"key":"Itm_Apple","value":"An Apple for Saul"},
 {"key":"Itm_AlarmClock","value":"Alarm Clock"},
@@ -32,7 +32,7 @@
 
 {"key":"Desc_ZestyBar","value":"Energy Flavored Zesty Bar\nEat one of these and get a boost of energy!\nFills up your stamina more than you can just by taking a rest!"},
 {"key":"Desc_Bsoda","value":"BSODA\nOpen a can of fizzed up BSODA and spray away anyone\nwho's trying to get in your way! Ingredients: Blue, high fructose corn syrup,\nelectricity, and 2% or less of: Water, blue 2."},
-{"key":"Desc_Quarter","value":"One Pound Coin\nA shiny quarter!\nUseful for anything that requires a shiny one pound coin!"},
+{"key":"Desc_Quarter","value":"One Saul Pound Coin\nA MONEY!\nI LOVE MONEY!"},
 {"key":"Desc_DoorLock","value":"Silly Door Lock\nUse this lock on any wacky door to close it for a few seconds,\npreventing anyone from coming through. Keep in mind that\npeople can still see through locked wacky doors!"},
 {"key":"Desc_DietBsoda","value":"Piet PSODA\n it tastes horrile"},
 
