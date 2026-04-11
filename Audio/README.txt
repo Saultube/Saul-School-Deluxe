@@ -30,7 +30,7 @@ Activity_Incorrect->*Incorrect buzz*(Sfx_Activity_Incorrect) | Activity_Incorrec
 AppleCrunch->*CRONCH*(Sfx_AppleCrunch) | AppleCrunch
 AutoDoor_Close->*Auto door closes*(Sfx_AutoDoor_Close) | Elv_Close_Real
 AutoDoor_Open->*Auto door opens*(Sfx_AutoDoor_Open) | Elv_Open_Real
-BAL_Slap->*SLAP*(Sfx_Baldi_Slap) | BAL_Slap_2
+BAL_Slap->*AUDIBLE CELEBRATION*(Sfx_Baldi_Slap) | BAL_Slap_2
 BalderCrumble->*Smash!*(Sfx_BalderCrumble) | BalderCrumble
 BalderCrush->*Crush!*(Sfx_BalderCrush) | BalderCrush
 BalderRoll->*Rumbling*(Sfx_BalderRoll) | BalderRoll
