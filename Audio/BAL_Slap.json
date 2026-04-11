@@ -1,0 +1,11 @@
+{
+	"DurationOverride":0.766,
+	"KeyOverride":"Sfx_Baldi_Slap",
+	"TimedKeys":[
+		{
+			"key":"*CELEBRATION*",
+			"time":2,
+			"encrypted":false
+		}
+	]
+}
