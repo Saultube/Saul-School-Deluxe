@@ -190,5 +190,8 @@
 {"key":"Vfx_Bully_TakeCandy","value":"I'm gonna take your copy..."},
 {"key":"Vfx_Bully_TakeThat","value":"I'll take that! It's mine now..."},
 {"key":"Vfx_Bully_Sticks","value":"Give me those sticks..."},
+{"key":"Vfx_Jon_InfoExpel","value":"You can expel someone for the rest of your game!"},
+{"key":"Vfx_Jon_SayHi","value":"Say hi to Saul for me!"},
+{"key":"Vfx_Jon_ThanksNot","value":"Thanks for nothing, Asshole!!"},
 
 {"key":"End", "value":"Woah, this is the end of the .json file!"}]}
