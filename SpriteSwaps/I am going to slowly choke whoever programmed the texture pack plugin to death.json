@@ -1,0 +1,27 @@
+{
+	"Slap_Sheet.0":{
+		"Sprite":"SlapAlt1",
+		"PixelsPerUnit":128,
+		"Pivot":[0.5,0.5]
+	},
+	"Slap_Sheet.1":{
+		"Sprite":"SlapAlt2",
+		"PixelsPerUnit":128,
+		"Pivot":[0.5,0.5]
+	},
+	"Slap_Sheet.2":{
+		"Sprite":"SlapAlt3",
+		"PixelsPerUnit":128,
+		"Pivot":[0.5,0.5]
+	},
+	"Slap_Sheet.3":{
+		"Sprite":"SlapAlt4",
+		"PixelsPerUnit":128,
+		"Pivot":[0.5,0.5]
+	},
+	"Slap_Sheet.4":{
+		"Sprite":"SlapAlt5",
+		"PixelsPerUnit":128,
+		"Pivot":[0.5,0.5]
+	}
+}
