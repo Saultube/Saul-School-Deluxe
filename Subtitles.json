@@ -39,7 +39,7 @@
 {"key":"PST_HNT_Rules1","value":""},
 {"key":"PST_HNT_Rules2","value":""},
 
-{"key":"Vfx_NoL_CheckMap","value":"check yuo map to see where kistol room is."},
+{"key":"Vfx_NoL_CheckMap","value":"check yuo map to find kistol room"},
 {"key":"Vfx_NoL_ClassDismissed","value":"*unintelligable speech of thanks and joy*"},
 {"key":"Vfx_NoL_JustinTime","value":"you yes room yaey!"},
 {"key":"Vfx_NoL_Minutes","value":"minutes."},
@@ -54,9 +54,9 @@
 {"key":"Vfx_NoL_Nums_7","value":"7"},
 {"key":"Vfx_NoL_Nums_8","value":"8"},
 {"key":"Vfx_NoL_Nums_9","value":"9"},
-{"key":"Vfx_NoL_RemindingYou","value":"rembebebr go to kistol room"},
+{"key":"Vfx_NoL_RemindingYou","value":"rebebmbebmer to come to kistol room"},
 {"key":"Vfx_NoL_Scream","value":"why weren't you in kistol room #####################"},
-{"key":"Vfx_NoL_TimesUp","value":"time up"},
+{"key":"Vfx_NoL_TimesUp","value":"you time is up"},
 {"key":"Vfx_NoL_YouThere","value":"haii human!"},
 {"key":"Sfx_CartoonKnock_Trimmed","value":"*CLANG*"},
 
