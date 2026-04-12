@@ -1,0 +1,37 @@
+{
+	"Baldi_Talk_Standing_Sheet_0":{
+		"Sprite":"Talky1.png",
+		"PixelsPerUnit":32,
+		"Pivot":[0.5,0.5]
+	},
+	"Baldi_Talk_Standing_Sheet_1":{
+		"Sprite":"talky2.png",
+		"PixelsPerUnit":32,
+		"Pivot":[0.5,0.5]
+	},
+	"Baldi_Talk_Standing_Sheet_2":{
+		"Sprite":"talky3.png",
+		"PixelsPerUnit":32,
+		"Pivot":[0.5,0.5]
+	},
+	"Baldi_Talk_Standing_Sheet_3":{
+		"Sprite":"talky4.png",
+		"PixelsPerUnit":32,
+		"Pivot":[0.5,0.5]
+	},
+	"Baldi_Talk_Standing_Sheet_4":{
+		"Sprite":"talky5.png",
+		"PixelsPerUnit":32,
+		"Pivot":[0.5,0.5]
+	},
+	"Baldi_Talk_Standing_Sheet_5":{
+		"Sprite":"talky6.png",
+		"PixelsPerUnit":32,
+		"Pivot":[0.5,0.5]
+	},
+	"Baldi_Talk_Standing_Sheet_6":{
+		"Sprite":"talky7.png",
+		"PixelsPerUnit":32,
+		"Pivot":[0.5,0.5]
+	}
+}

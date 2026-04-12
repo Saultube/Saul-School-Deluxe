@@ -1,0 +1,17 @@
+{
+	"BAL_Countdown_Sheet_0":{
+		"Sprite":"count1.png",
+		"PixelsPerUnit":32,
+		"Pivot":[0.5,0.5]
+	},
+	"BAL_Countdown_Sheet_1":{
+		"Sprite":"count2.png",
+		"PixelsPerUnit":32,
+		"Pivot":[0.5,0.5]
+	},
+	"BAL_Countdown_Sheet_2":{
+		"Sprite":"count3.png",
+		"PixelsPerUnit":32,
+		"Pivot":[0.5,0.5]
+	}
+}
