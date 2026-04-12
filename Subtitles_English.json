@@ -43,7 +43,7 @@
 {"key":"Desc_DoorLock","value":"Silly Door Lock\nUse this lock on any wacky door to close it for a few seconds,\npreventing anyone from coming through. Keep in mind that\npeople can still see through locked wacky doors!"},
 {"key":"Desc_DietBsoda","value":"Piet PSODA\n it tastes horrile"},
 {"key":"Desc_Boots","value":"Luigi Slippers\nLil' Saul's Luigi Slippers are SO comfortable, you'll never be pushed again! \n(Until you lose them, of course.)"},
-{"key":"Desc_InvisibilityElixir","value":"Square Invisibility Elixir\nDrinking this elixir will turn its subject square invisible for a little while!\nWatch out though! Just because no one can see you\ndoesn't mean they can't still bump into you."},
+{"key":"Desc_InvisibilityElixir","value":"Square Invisibility Elixir\nDrinking this drink will turn its subject square AND invisible for a while, what a deal!\nWatch out though! Mister Gums can still see you, he can always see you."},
 
 {"key":"PST_HNT_Rules1","value":""},
 {"key":"PST_HNT_Rules2","value":""},
@@ -82,8 +82,6 @@
 {"key":"PST_CHK_Possible2","value":"Don't do it!\n He's bluffin' I hope!"},
 {"key":"PST_CHK_TreeHint","value":"C\n O\n  O\n    L"},
 {"key":"PST_CHK_World","value":""},
-
-
 
 {"key":"PST_PRI_Baldi1","value":"Saul"},
 {"key":"PST_PRI_Baldi2","value":"I dunno, he exists."},
