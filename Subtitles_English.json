@@ -34,12 +34,14 @@
 {"key":"Itm_PortalPoster","value":"Portal Poster"},
 {"key":"Itm_NanaPeel","value":"'Nana Peel"},
 {"key":"Itm_DietBsoda","value":"Piet PSODA"},
+{"key":"Itm_InvisibilityElixir","value":"Square Invisibility Elixir"},
 
 {"key":"Desc_ZestyBar","value":"Energy Flavored Zesty Bar\nEat one of these and get a boost of energy!\nFills up your stamina more than you can just by taking a rest!"},
 {"key":"Desc_Bsoda","value":"BSODA\nOpen a can of fizzed up BSODA and spray away anyone\nwho's trying to get in your way! Ingredients: Blue, high fructose corn syrup,\nelectricity, and 2% or less of: Water, blue 2."},
 {"key":"Desc_Quarter","value":"One Saul Pound Coin\nA MONEY!\nI LOVE MONEY!"},
 {"key":"Desc_DoorLock","value":"Silly Door Lock\nUse this lock on any wacky door to close it for a few seconds,\npreventing anyone from coming through. Keep in mind that\npeople can still see through locked wacky doors!"},
 {"key":"Desc_DietBsoda","value":"Piet PSODA\n it tastes horrile"},
+{"key":"Desc_InvisibilityElixir","value":"Square Invisibility Elixir\nDrinking this elixir will turn its subject square invisible for a little while!\nWatch out though! Just because no one can see you\ndoesn't mean they can't still bump into you."},
 
 {"key":"PST_HNT_Rules1","value":""},
 {"key":"PST_HNT_Rules2","value":""},
