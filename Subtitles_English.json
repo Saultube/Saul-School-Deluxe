@@ -13,7 +13,8 @@
 {"key":"Level_Type_Maintenance","value":"Clawhouse"},
 
 {"key":"Itm_ZestyBar","value":"Energy Flavored Zesty Bar"},
-{"key":"Itm_Bsoda","value":"BSODA"},
+{"key":"Itm_Boots","value":"Luigi Slippers"},
+{"key":"Itm_Bsoda","value":"CSODA"},
 {"key":"Itm_DetentionKey","value":"Krupp's Keys"},
 {"key":"Itm_GrapplingHook","value":"(5) Grappling Hook"},
 {"key":"Itm_GrapplingHook4","value":"(4) Grappling Hook"},
@@ -37,10 +38,11 @@
 {"key":"Itm_InvisibilityElixir","value":"Square Invisibility Elixir"},
 
 {"key":"Desc_ZestyBar","value":"Energy Flavored Zesty Bar\nEat one of these and get a boost of energy!\nFills up your stamina more than you can just by taking a rest!"},
-{"key":"Desc_Bsoda","value":"BSODA\nOpen a can of fizzed up BSODA and spray away anyone\nwho's trying to get in your way! Ingredients: Blue, high fructose corn syrup,\nelectricity, and 2% or less of: Water, blue 2."},
+{"key":"Desc_Bsoda","value":"CSODA\nIt tastes REALLY good!"},
 {"key":"Desc_Quarter","value":"One Saul Pound Coin\nA MONEY!\nI LOVE MONEY!"},
 {"key":"Desc_DoorLock","value":"Silly Door Lock\nUse this lock on any wacky door to close it for a few seconds,\npreventing anyone from coming through. Keep in mind that\npeople can still see through locked wacky doors!"},
 {"key":"Desc_DietBsoda","value":"Piet PSODA\n it tastes horrile"},
+{"key":"Desc_Boots","value":"Luigi Slippers\nLil' Saul's Luigi Slippers are SO comfortable, you'll never be pushed again! \n(Until you lose them, of course.)"},
 {"key":"Desc_InvisibilityElixir","value":"Square Invisibility Elixir\nDrinking this elixir will turn its subject square invisible for a little while!\nWatch out though! Just because no one can see you\ndoesn't mean they can't still bump into you."},
 
 {"key":"PST_HNT_Rules1","value":""},
@@ -66,6 +68,21 @@
 {"key":"Vfx_NoL_TimesUp","value":"you time is up"},
 {"key":"Vfx_NoL_YouThere","value":"haii human!"},
 {"key":"Sfx_CartoonKnock_Trimmed","value":"*CLANG*"},
+
+{"key":"PST_CHK_Apple","value":"i HATE you"},
+{"key":"PST_CHK_BaldiSays1","value":"Saul says:"},
+{"key":"PST_CHK_BaldiSays2","value":"You're gay and \nthat's okay"},
+{"key":"PST_CHK_Chalk","value":"Chalk\n   Board!"},
+{"key":"PST_CHK_Cheese","value":"Schedule for \nTomorrow:\nEat Saul"},
+{"key":"PST_CHK_G","value":"cdi romssss"},
+{"key":"PST_CHK_Math1","value":"Math = More Math ="},
+{"key":"PST_CHK_Math2","value":"Math"},
+{"key":"PST_CHK_Math3","value":"Math<sup>Math<sup>Math<sup>Math<sup>Math<sup>Math</sup></sup></sup></sup></sup>"},
+{"key":"PST_CHK_Possible1","value":"Don't do it!"},
+{"key":"PST_CHK_Possible2","value":"Don't do it!\n He's bluffin' I hope!"},
+{"key":"PST_CHK_TreeHint","value":"C\n O\n  O\n    L"},
+{"key":"PST_CHK_World","value":""},
+
 
 
 {"key":"PST_PRI_Baldi1","value":"Saul"},
