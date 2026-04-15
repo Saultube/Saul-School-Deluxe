@@ -1,0 +1,50 @@
+{
+	"Playtime_0":{
+		"Sprite":"EvilSheetUp.png",
+		"PixelsPerUnit":32,
+		"Pivot":[0.5,0.5],
+		"textureRect":[0.0, 256.0, 256.0, 256.0]
+	},
+	"Playtime_1":{
+		"Sprite":"EvilSheetUp.png",
+		"PixelsPerUnit":32,
+		"Pivot":[0.5,0.5],
+		"textureRect":[256.0, 256.0, 256.0, 256.0]
+	},
+	"Playtime_2":{
+		"Sprite":"EvilSheetUp.png",
+		"PixelsPerUnit":32,
+		"Pivot":[0.5,0.5],
+		"textureRect":[512.0, 256.0, 256.0, 256.0]
+	},
+	"Playtime_3":{
+		"Sprite":"EvilSheetUp.png",
+		"PixelsPerUnit":32,
+		"Pivot":[0.5,0.5],
+		"textureRect":[768.0, 256.0, 256.0, 256.0]
+	},
+	"Playtime_4":{
+		"Sprite":"EvilSheetUp.png",
+		"PixelsPerUnit":32,
+		"Pivot":[0.5,0.5],
+		"textureRect":[0.0, 0.0, 256.0, 256.0]
+	},
+	"Playtime_5":{
+		"Sprite":"EvilSheetUp.png",
+		"PixelsPerUnit":32,
+		"Pivot":[0.5,0.5],
+		"textureRect":[256.0, 0.0, 256.0, 256.0]
+	},
+	"Playtime_6":{
+		"Sprite":"EvilSheetUp.png",
+		"PixelsPerUnit":32,
+		"Pivot":[0.5,0.5],
+		"textureRect":[512.0, 0.0, 256.0, 256.0]
+	},
+	"Playtime_7":{
+		"Sprite":"EvilSheetUp.png",
+		"PixelsPerUnit":32,
+		"Pivot":[0.5,0.5],
+		"textureRect":[768.0, 0.0, 256.0, 256.0]
+	}
+}
