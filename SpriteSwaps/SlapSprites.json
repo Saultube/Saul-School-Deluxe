@@ -23,5 +23,32 @@
 		"Sprite":"SlapAlt5.png",
 		"PixelsPerUnit":32,
 		"Pivot":[0.5,0.5]
+	},
+	
+	"Slap_Sheet_Broken_0":{
+		"Sprite":"SlapAlt1.png",
+		"PixelsPerUnit":32,
+		"Pivot":[0.5,0.5]
+	},
+	"Slap_Sheet_Broken_1":{
+		"Sprite":"SlapAlt2.png",
+		"PixelsPerUnit":32,
+		"Pivot":[0.5,0.5]
+	},
+	"Slap_Sheet_Broken_2":{
+		"Sprite":"SlapAlt3.png",
+		"PixelsPerUnit":32,
+		"Pivot":[0.5,0.5]
+	},
+	"Slap_Sheet_Broken_3":{
+		"Sprite":"SlapAlt4.png",
+		"PixelsPerUnit":32,
+		"Pivot":[0.5,0.5]
+	},
+	"Slap_Sheet_Broken_4":{
+		"Sprite":"SlapAlt5.png",
+		"PixelsPerUnit":32,
+		"Pivot":[0.5,0.5]
 	}
+	
 }
