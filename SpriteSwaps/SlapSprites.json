@@ -26,27 +26,27 @@
 	},
 	
 	"Slap_Sheet_Broken_0":{
-		"Sprite":"SlapAlt1.png",
+		"Sprite":"nohands1.png",
 		"PixelsPerUnit":32,
 		"Pivot":[0.5,0.5]
 	},
 	"Slap_Sheet_Broken_1":{
-		"Sprite":"SlapAlt2.png",
+		"Sprite":"nohands2.png",
 		"PixelsPerUnit":32,
 		"Pivot":[0.5,0.5]
 	},
 	"Slap_Sheet_Broken_2":{
-		"Sprite":"SlapAlt3.png",
+		"Sprite":"nohands3.png",
 		"PixelsPerUnit":32,
 		"Pivot":[0.5,0.5]
 	},
 	"Slap_Sheet_Broken_3":{
-		"Sprite":"SlapAlt4.png",
+		"Sprite":"nohands4.png",
 		"PixelsPerUnit":32,
 		"Pivot":[0.5,0.5]
 	},
 	"Slap_Sheet_Broken_4":{
-		"Sprite":"SlapAlt5.png",
+		"Sprite":"nohands5.png",
 		"PixelsPerUnit":32,
 		"Pivot":[0.5,0.5]
 	}
