@@ -1,0 +1,160 @@
+{
+	"Beans_SpriteSheet_0":{
+		"Sprite":"walk1.png",
+		"PixelsPerUnit":64,
+		"Pivot":[0.5,0.5]
+	},
+	"Beans_SpriteSheet_1":{
+		"Sprite":"walk1.png",
+		"PixelsPerUnit":64,
+		"Pivot":[0.5,0.5]
+	},
+	"Beans_SpriteSheet_2":{
+		"Sprite":"walk1.png",
+		"PixelsPerUnit":64,
+		"Pivot":[0.5,0.5]
+	},
+	"Beans_SpriteSheet_3":{
+		"Sprite":"walk3.png",
+		"PixelsPerUnit":64,
+		"Pivot":[0.5,0.5]
+	},
+	"Beans_SpriteSheet_4":{
+		"Sprite":"walk2.png",
+		"PixelsPerUnit":64,
+		"Pivot":[0.5,0.5]
+	},
+	"Beans_SpriteSheet_5":{
+		"Sprite":"walk2.png",
+		"PixelsPerUnit":64,
+		"Pivot":[0.5,0.5]
+	},
+	"Beans_SpriteSheet_6":{
+		"Sprite":"walk2.png",
+		"PixelsPerUnit":64,
+		"Pivot":[0.5,0.5]
+	},
+
+	"Beans_SpriteSheet_7":{
+		"Sprite":"walk3.png",
+		"PixelsPerUnit":64,
+		"Pivot":[0.5,0.5]
+	},
+
+	"Beans_SpriteSheet_8":{
+		"Sprite":"wallotewindup.png",
+		"PixelsPerUnit":64,
+		"Pivot":[0.5,0.5]
+	},
+
+	"Beans_SpriteSheet_9":{
+		"Sprite":"wallotethrow.png",
+		"PixelsPerUnit":64,
+		"Pivot":[0.5,0.5]
+	},
+
+	"Beans_SpriteSheet_10":{
+		"Sprite":"wallotethrow.png",
+		"PixelsPerUnit":64,
+		"Pivot":[0.5,0.5]
+	},
+
+	"Beans_SpriteSheet_11":{
+		"Sprite":"wallotethrow.png",
+		"PixelsPerUnit":64,
+		"Pivot":[0.5,0.5]
+	},
+
+	"Beans_SpriteSheet_12":{
+		"Sprite":"wallotethrow.png",
+		"PixelsPerUnit":64,
+		"Pivot":[0.5,0.5]
+	},
+
+	"Beans_SpriteSheet_13":{
+		"Sprite":"wallotethrow.png",
+		"PixelsPerUnit":64,
+		"Pivot":[0.5,0.5]
+	},
+
+	"Beans_SpriteSheet_14":{
+		"Sprite":"wallotethrow.png",
+		"PixelsPerUnit":64,
+		"Pivot":[0.5,0.5]
+	},
+
+	"Beans_SpriteSheet_15":{
+		"Sprite":"wallotethrow.png",
+		"PixelsPerUnit":64,
+		"Pivot":[0.5,0.5]
+	},
+
+	"Beans_SpriteSheet_16":{
+		"Sprite":"wallotethrow.png",
+		"PixelsPerUnit":64,
+		"Pivot":[0.5,0.5]
+	},
+
+	"Beans_SpriteSheet_17":{
+		"Sprite":"wallotethrow.png",
+		"PixelsPerUnit":64,
+		"Pivot":[0.5,0.5]
+	},
+
+	"Beans_SpriteSheet_18":{
+		"Sprite":"wallotethrow.png",
+		"PixelsPerUnit":64,
+		"Pivot":[0.5,0.5]
+	},
+
+
+	"Beans_SpriteSheet_24":{
+		"Sprite":"wallotewindup.png",
+		"PixelsPerUnit":64,
+		"Pivot":[0.5,0.5]
+	},
+
+	"Beans_SpriteSheet_25":{
+		"Sprite":"wallotewindup.png",
+		"PixelsPerUnit":64,
+		"Pivot":[0.5,0.5]
+	},
+
+	"Beans_SpriteSheet_26":{
+		"Sprite":"wallotewindup.png",
+		"PixelsPerUnit":64,
+		"Pivot":[0.5,0.5]
+	},
+
+	"Beans_SpriteSheet_27":{
+		"Sprite":"wallotewindup2.png",
+		"PixelsPerUnit":64,
+		"Pivot":[0.5,0.5]
+	},
+
+	"Beans_SpriteSheet_19":{
+		"Sprite":"walk3.png",
+		"PixelsPerUnit":64,
+		"Pivot":[0.5,0.5]
+	},
+	"Beans_SpriteSheet_20":{
+		"Sprite":"walk3.png",
+		"PixelsPerUnit":64,
+		"Pivot":[0.5,0.5]
+	},
+	"Beans_SpriteSheet_21":{
+		"Sprite":"walk3.png",
+		"PixelsPerUnit":64,
+		"Pivot":[0.5,0.5]
+	},
+	"Beans_SpriteSheet_22":{
+		"Sprite":"walk3.png",
+		"PixelsPerUnit":64,
+		"Pivot":[0.5,0.5]
+	},
+	"Beans_SpriteSheet_23":{
+		"Sprite":"walk3.png",
+		"PixelsPerUnit":64,
+		"Pivot":[0.5,0.5]
+	}
+}
