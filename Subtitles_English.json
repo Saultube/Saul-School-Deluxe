@@ -136,6 +136,16 @@
 {"key":"Vfx_Ben_Splat","value":"[SPLAT!]"},
 {"key":"Sfx_Ben_Gum_Whoosh","value":"[WHOOSH]"},
 
+{"key":"Vfx_Prize_AmComing","value":"I FOUND THEM I FOUND THEM"},
+{"key":"Vfx_Prize_AmLooking","value":"*HONK* *HONK*"},
+{"key":"Vfx_Prize_Bang","value":"[SLAM!]"},
+{"key":"Vfx_Prize_BeenProgrammed","value":"*LUDICROUS HONKING*"},
+{"key":"Vfx_Prize_HaveLost","value":"WHERE... GO?"},
+{"key":"Vfx_Prize_IHug","value":"WEEEE-EEE-E"},
+{"key":"Vfx_Prize_ISeeYou","value":"I'M THE CAR 'O TOMORROW"},
+{"key":"Vfx_Prize_Marry","value":"HOORAY"},
+{"key":"Vfx_Prize_OhNo","value":"WHAT DID I DO WRONG"},
+
 {"key":"Vfx_Sweep_GottaSweep","value":"GET OUT OF THE WAY!!!"},
 {"key":"Vfx_Sweep_Intro","value":"It's time to clock in!"},
 
