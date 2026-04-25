@@ -1,50 +1,42 @@
 {
 	"Playtime_0":{
-		"Sprite":"EvilSheetUp.png",
+		"Sprite":"EvilSheetUp1.png",
 		"PixelsPerUnit":32,
-		"Pivot":[0.5,0.5],
-		"textureRect":[0.0, 256.0, 256.0, 256.0]
+		"Pivot":[0.5,0.5]
 	},
 	"Playtime_1":{
-		"Sprite":"EvilSheetUp.png",
+		"Sprite":"EvilSheetUp2.png",
 		"PixelsPerUnit":32,
-		"Pivot":[0.5,0.5],
-		"textureRect":[256.0, 256.0, 256.0, 256.0]
+		"Pivot":[0.5,0.5]
 	},
 	"Playtime_2":{
-		"Sprite":"EvilSheetUp.png",
+		"Sprite":"EvilSheetUp3.png",
 		"PixelsPerUnit":32,
-		"Pivot":[0.5,0.5],
-		"textureRect":[512.0, 256.0, 256.0, 256.0]
+		"Pivot":[0.5,0.5]
 	},
 	"Playtime_3":{
-		"Sprite":"EvilSheetUp.png",
+		"Sprite":"EvilSheetUp4.png",
 		"PixelsPerUnit":32,
-		"Pivot":[0.5,0.5],
-		"textureRect":[768.0, 256.0, 256.0, 256.0]
+		"Pivot":[0.5,0.5]
 	},
 	"Playtime_4":{
-		"Sprite":"EvilSheetUp.png",
+		"Sprite":"EvilSheetUp5.png",
 		"PixelsPerUnit":32,
-		"Pivot":[0.5,0.5],
-		"textureRect":[0.0, 0.0, 256.0, 256.0]
+		"Pivot":[0.5,0.5]
 	},
 	"Playtime_5":{
-		"Sprite":"EvilSheetUp.png",
+		"Sprite":"EvilSheetUp6.png",
 		"PixelsPerUnit":32,
-		"Pivot":[0.5,0.5],
-		"textureRect":[256.0, 0.0, 256.0, 256.0]
+		"Pivot":[0.5,0.5]
 	},
 	"Playtime_6":{
-		"Sprite":"EvilSheetUp.png",
+		"Sprite":"EvilSheetUp7.png",
 		"PixelsPerUnit":32,
-		"Pivot":[0.5,0.5],
-		"textureRect":[512.0, 0.0, 256.0, 256.0]
+		"Pivot":[0.5,0.5]
 	},
 	"Playtime_7":{
-		"Sprite":"EvilSheetUp.png",
+		"Sprite":"EvilSheetUp8.png",
 		"PixelsPerUnit":32,
-		"Pivot":[0.5,0.5],
-		"textureRect":[768.0, 0.0, 256.0, 256.0]
+		"Pivot":[0.5,0.5]
 	}
 }
