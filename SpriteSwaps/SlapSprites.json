@@ -45,8 +45,20 @@
 		"PixelsPerUnit":32,
 		"Pivot":[0.5,0.5]
 	},
+
 	"Slap_Sheet_Broken_4":{
 		"Sprite":"nohands5.png",
+		"PixelsPerUnit":32,
+		"Pivot":[0.5,0.5]
+	},
+
+	"CampingTalkSheet_0":{
+		"Sprite":"camp1.png",
+		"PixelsPerUnit":32,
+		"Pivot":[0.5,0.5]
+	},
+	"CampingTalkSheet_1":{
+		"Sprite":"camp2.png",
 		"PixelsPerUnit":32,
 		"Pivot":[0.5,0.5]
 	}
