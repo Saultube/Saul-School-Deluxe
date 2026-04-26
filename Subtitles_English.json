@@ -12,7 +12,7 @@
 {"key":"Level_Type_Laboratory","value":"Teleporter Factory"},
 {"key":"Level_Type_Maintenance","value":"Clawhouse"},
 
-{"key":"Itm_ZestyBar","value":"Energy Flavored Zesty Bar"},
+{"key":"Itm_ZestyBar","value":"Calorie Flavored Broshi Bar"},
 {"key":"Itm_Boots","value":"Luigi Slippers"},
 {"key":"Itm_Bsoda","value":"CSODA"},
 {"key":"Itm_DetentionKey","value":"Krupp's Keys"},
@@ -36,6 +36,7 @@
 {"key":"Itm_NanaPeel","value":"'Nana Peel"},
 {"key":"Itm_DietBsoda","value":"Piet PSODA"},
 {"key":"Itm_InvisibilityElixir","value":"Square Invisibility Elixir"},
+{"key":"Itm_PrincipalWhistle","value":"Krupp's Whistle"},
 
 {"key":"Desc_ZestyBar","value":"Energy Flavored Zesty Bar\nEat one of these and get a boost of energy!\nFills up your stamina more than you can just by taking a rest!"},
 {"key":"Desc_Bsoda","value":"CSODA\nIt tastes REALLY good!"},
@@ -44,6 +45,9 @@
 {"key":"Desc_DietBsoda","value":"Piet PSODA\n it tastes horrile"},
 {"key":"Desc_Boots","value":"Luigi Slippers\nLil' Saul's Luigi Slippers are SO comfortable, you'll never be pushed again! \n(Until you lose them, of course.)"},
 {"key":"Desc_InvisibilityElixir","value":"Square Invisibility Elixir\nDrinking this drink will turn its subject square AND invisible for a while, what a deal!\nWatch out though! Mister Gums can still see you, he can always see you."},
+{"key":"Desc_PrincipalWhistle","value":"Krupp's Whistle\nHe's gonna get someone else someday!"},
+{"key":"Desc_ZestyBar","value":"Calorie Flavored Broshi Bar\n contains enough calories for a day and a half of survival\nwill give you the energy to run faster for like 30 seconds\nand potentially diabetes."},
+{"key":"Desc_DetentionKey","value":"Krupp's Keys\nKrupp won't be pleased to know you can unlock any door in the building!"},
 
 {"key":"PST_HNT_Rules1","value":""},
 {"key":"PST_HNT_Rules2","value":""},
@@ -70,7 +74,7 @@
 {"key":"Sfx_CartoonKnock_Trimmed","value":"*CLANG*"},
 
 {"key":"PST_CHK_Apple","value":"i HATE you"},
-{"key":"PST_CHK_BaldiSays1","value":"Saul says:"},
+{"key":"PST_CHK_BaldiSays1","value":"Saul once said:"},
 {"key":"PST_CHK_BaldiSays2","value":"You're gay and \nthat's okay"},
 {"key":"PST_CHK_Chalk","value":"Chalk\n   Board!"},
 {"key":"PST_CHK_Cheese","value":"Schedule for \nTomorrow:\nEat Saul"},
@@ -84,7 +88,7 @@
 {"key":"PST_CHK_World","value":""},
 
 {"key":"PST_PRI_Baldi1","value":"Saul"},
-{"key":"PST_PRI_Baldi2","value":"I dunno, he exists."},
+{"key":"PST_PRI_Baldi2","value":"A mushroom is the fleshy, spore-bearing fruiting body of a fungus, typically produced above ground on soil or another food source."},
 {"key":"PST_PRI_Bully1","value":"It's Marcus"},
 {"key":"PST_PRI_Bully2","value":"he's mad."},
 {"key":"PST_PRI_Crafters1","value":"Thumbo"},
