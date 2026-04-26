@@ -100,7 +100,7 @@
 {"key":"PST_PRI_Sweep1","value":"Addie"},
 {"key":"PST_PRI_Sweep2","value":"Get out of the way!"},
 {"key":"PST_PRI_Beans1","value":"Charlotte"},
-{"key":"PST_PRI_Beans2","value":"she throws brownies at you, reason is unclear."},
+{"key":"PST_PRI_Beans2","value":"she gives you brownies, she's not a very good baker so they're very gooey."},
 {"key":"PST_PRI_Test1","value":"Wall"},
 {"key":"PST_PRI_Test2","value":"E20!"},
 
@@ -274,7 +274,7 @@
 {"key":"Vfx_PRI_NoRunning","value":"one day, I'm gonna get you."},
 {"key":"Vfx_PRI_NoStabbing","value":"one day, I'm gonna get you."},
 {"key":"Vfx_PRI_Scold2","value":"..."},
-{"key":"Vfx_PRI_Whistle","value":"*Whistling*"},
+{"key":"Vfx_PRI_Whistle","value":"*scatting*"},
 {"key":"Vfx_PRI_Scold3","value":"..."},
 {"key":"Vfx_PRI_Scold4","value":"..."},
 
