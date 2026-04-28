@@ -8,9 +8,9 @@
 {"key":"Hud_Notebooks","value":"Noteboos"},
 
 {"key":"Level_Type_Schoolhouse","value":"Saulhouse"},
-{"key":"Level_Type_Factory","value":"Factory"},
-{"key":"Level_Type_Laboratory","value":"Teleporter Factory"},
-{"key":"Level_Type_Maintenance","value":"Clawhouse"},
+{"key":"Level_Type_Factory","value":"Clawhouse"},
+{"key":"Level_Type_Laboratory","value":"Saul's house in real life"},
+{"key":"Level_Type_Maintenance","value":"Wirehouse"},
 
 {"key":"Itm_ZestyBar","value":"Calorie Flavored Broshi Bar"},
 {"key":"Itm_Lost_Book","value":"Lost DXA Diamond"},
@@ -31,7 +31,6 @@
 {"key":"Itm_AlarmClock","value":"Alarm Clock"},
 {"key":"Itm_ChalkEraser","value":"Dirty Chalk Eraser"},
 {"key":"Itm_Nametag","value":"Faculty Nametag"},
-{"key":"Itm_PrincipalWhistle","value":"Principal Whistle"},
 {"key":"Itm_Scissors","value":"Safety Scissors"},
 {"key":"Itm_Teleporter","value":"Dangerous Teleporter"},
 {"key":"Itm_PortalPoster","value":"Portal Poster"},
