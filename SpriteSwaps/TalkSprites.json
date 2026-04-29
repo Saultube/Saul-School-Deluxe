@@ -33,5 +33,15 @@
 		"Sprite":"talky7.png",
 		"PixelsPerUnit":32,
 		"Pivot":[0.5,0.5]
+	},
+		"BaldiApple_0":{
+		"Sprite":"Seat1.png",
+		"PixelsPerUnit":32,
+		"Pivot":[0.5,0.5]
+	},
+		"BaldiApple_1":{
+		"Sprite":"Seat2.png",
+		"PixelsPerUnit":32,
+		"Pivot":[0.5,0.5]
 	}
 }
