@@ -39,6 +39,8 @@
 {"key":"Itm_InvisibilityElixir","value":"Square Invisibility Elixir"},
 {"key":"Itm_PrincipalWhistle","value":"Krupp's Whistle"},
 
+{"key":"SFX_Items_AntiHearing","value":"[Wonderful Song]"},
+
 {"key":"Desc_ZestyBar","value":"Energy Flavored Zesty Bar\nEat one of these and get a boost of energy!\nFills up your stamina more than you can just by taking a rest!"},
 {"key":"Desc_Bsoda","value":"CSODA\nIt tastes REALLY good!"},
 {"key":"Desc_Quarter","value":"One Saul Pound Coin\nA MONEY!\nI LOVE MONEY!"},
