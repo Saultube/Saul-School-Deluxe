@@ -7,6 +7,12 @@
 
 {"key":"Hud_Notebooks","value":"Noteboos"},
 
+{"key":"PST_CMC_Mail1","value":"okay today i will be\nthrowing this person out a window"},
+{"key":"PST_CMC_Mail2","value":""},
+{"key":"PST_CMC_Mail3","value":""},
+{"key":"PST_CMC_Mail4","value":""},
+{"key":"PST_CMC_Mail5","value":"okay i did it goodbye"},
+
 {"key":"Level_Type_Schoolhouse","value":"Saulhouse"},
 {"key":"Level_Type_Factory","value":"Clawhouse"},
 {"key":"Level_Type_Laboratory","value":"Saul's house in real life"},
@@ -59,9 +65,8 @@
 {"key":"PST_HNT_Rules1","value":""},
 {"key":"PST_HNT_Rules2","value":""},
 {"key":"PST_HNT_Boots","value":""},
-{"key":"PST_HNT_NoSquee","value":""},
 {"key":"PST_HNT_Phone","value":"Students:\nPlease do not play Saul Game 3D on Krupp's Desktop in his office. It makes Saul go into a frenzied rage and aimlessly walk around."},
-{"key":"PST_HNT_Scissors","value":"Hey kiddos!\nPlease do not use the safety knives we offer to stab students and staff members.\nThank you for your time."},
+{"key":"PST_HNT_Scissors","value":"Please do not use the safety knives we offer to stab students and staff members."},
 
 {"key":"Vfx_NoL_CheckMap","value":"check yuo map to find kistol room"},
 {"key":"Vfx_NoL_ClassDismissed","value":"*unintelligable speech of thanks and joy*"},
