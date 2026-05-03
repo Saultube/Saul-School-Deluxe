@@ -66,6 +66,16 @@
 		"Sprite":"camp1.png",
 		"PixelsPerUnit":32,
 		"Pivot":[0.5,0.5]
+	},
+		"CampingSheet_1":{
+		"Sprite":"camp1.png",
+		"PixelsPerUnit":32,
+		"Pivot":[0.5,0.5]
+	},
+		"CampingSheet_2":{
+		"Sprite":"camp1.png",
+		"PixelsPerUnit":32,
+		"Pivot":[0.5,0.5]
 	}
 	
 }
