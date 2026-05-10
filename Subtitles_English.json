@@ -3,7 +3,20 @@
 
 {"key":"Name_Baldi","value":"Saul"},
 
+	{"key":"Men_TutorialPrompt","value":"tutorial"},
+{"key":"Men_MainDesc","value":"Play Hide-and-Seek with Saul! Can you beat all the levels without losing?"},
+{"key":"Men_ContDesc","value":"<color=green>Continue your game of Hide-and-Seek with  Saul!</color>"},
+{"key":"Men_FreeDesc","value":"Saul was killed."},
+{"key":"Men_TutorialDesc","value":"Learn absolutely nothing about the game."},
+{"key":"Men_ChallengeDesc","value":"Try your hand at one of Saul's crazy challenges! (NOTE: Please don't.)"},
+{"key":"Men_EndlessDesc","value":"Collect as many notebooks as you can before Saul tags you! Saul speeds up over time, but notebooks slow him down!"},
+{"key":"Men_FieldTripDesc","value":"Go on field trips, practice minigames, and try to set high scores!"},
+
 {"key":"Men_Warning","value":"<color=red>SAUL!</color>\nsaul's school deluxe is a mild <color=red>saul game</color> and this is not saul saulftware.\n\nWhile saul elements are relatively saul at this saul of the saul's development, there are still a few jumpsauls and other auls that might saul some sauls.\n\nPRESS {0} TO SAUL"},
+
+{"key":"Men_StealthyChallenge","value":"You've snuck in school after hours! Surely Krupp will get you some day. Use <color=red>dirty chalk erasers</color>, <color=red>lockers</color>, and your <color=red>map</color> to avoid being seen and collect 7 notebooks."},
+{"key":"Men_SpeedyChallenge","value":"It's just you and Saul in this challenge. The catch is, both of you move super fast! Can you think fast enough to collect 25 notebooks and escape the school?"},
+{"key":"Men_GrappleChallenge","value":"Saul may have broken your legs, but thankfully you're equipped with an infinite use <color=red>grappling hook</color>! See if you can outwit Saul and his friends when this is your only way to move!"},
 
 {"key":"Notebooks","value":"{0} Noteboos"},
 
@@ -17,6 +30,16 @@
 
 {"key":"Mgm_Campfire_Title","value":"Campfire Frenzy"},
 {"key":"Mgm_Campfire_Desc","value":"Burn all of our assets! Watch out though, not all fuel is good for the fire!"},
+
+{"key":"Opt_PlayStyle","value":"Play Style"},
+{"key":"Opt_LifeMode_Normal","value":"Normal"},
+{"key":"Opt_LifeMode_Arcade","value":"Arcade"},
+{"key":"Opt_LifeMode_Intense","value":"Strict"},
+{"key":"Opt_LifeMode_Explorer","value":"Saul was killed."},
+{"key":"Opt_Challenges","value":"Challenges"},
+{"key":"Opt_TimeLimitChallenge","value":"1 Minute Limit"},
+{"key":"Opt_MapChallenge","value":"No Map"},
+{"key":"Opt_InventoryChallenge","value":"Shrinking Inventory"},
 
 {"key":"Level_Type_Schoolhouse","value":"Saulhouse"},
 {"key":"Level_Type_Factory","value":"Clawhouse"},
@@ -69,6 +92,10 @@
 {"key":"Desc_ZestyBar","value":"Calorie Flavored Broshi Bar\n contains enough calories for a day and a half of survival\nwill give you the energy to run faster for like 30 seconds\nand potentially diabetes."},
 {"key":"Desc_DetentionKey","value":"Krupp's Keys\nKrupp won't be pleased to know you can unlock any door in the building!"},
 {"key":"Desc_GrapplingHook","value":"Sticky Hand\n Throw this at a far away wall to quickly get pulled towards it.\nIt's not very durable though..."},
+{"key":"Desc_Plus25","value":"The green saul is worth 25 You Tried Points!"},
+{"key":"Desc_Plus50","value":"The silver saul is worth 50 You Tried Points!"},
+{"key":"Desc_Plus100","value":"The gold saul is worth 100 You Tried Points!"},
+{"key":"Desc_Plus250","value":"The diamond saul is worth 250 You Tried Points!"},
 
 {"key":"PST_HNT_Rules1","value":""},
 {"key":"PST_HNT_Rules2","value":""},
@@ -76,6 +103,8 @@
 {"key":"PST_HNT_NoSquee","value":""},
 {"key":"PST_HNT_Phone","value":"Students:\nPlease do not play Saul Game 3D on Krupp's Desktop in his office. It makes Saul go into a frenzied rage and aimlessly walk around."},
 {"key":"PST_HNT_Scissors","value":"Please do not use the safety knives we offer to stab students and staff."},
+
+{"key":"PST_TXT_Recycle","value":"gigaleak"},
 
 {"key":"Vfx_NoL_CheckMap","value":"check yuo map to find kistol room"},
 {"key":"Vfx_NoL_ClassDismissed","value":"*unintelligable speech of thanks and joy*"},
@@ -111,6 +140,23 @@
 {"key":"PST_CHK_Possible2","value":"Don't do it!\n He's bluffin' I hope!"},
 {"key":"PST_CHK_TreeHint","value":"C\n O\n  O\n    L"},
 {"key":"PST_CHK_World","value":""},
+
+{"key":"PST_CHK_LVL_Next","value":"The next floor is..."},
+{"key":"PST_CHK_LVL_Schoolhouse","value":"Saulhouse!"},
+{"key":"PST_CHK_LVL_Factory","value":"Clawhouse!"},
+{"key":"PST_CHK_LVL_Laboratory","value":"Saul's House in Real Life!"},
+{"key":"PST_CHK_LVL_Maintenance","value":"Wirehouse!"},
+
+{"key":"PST_BLT_Meeting","value":"please find mr. gums and escort him out of the building."},
+{"key":"PST_BLT_Blah","value":"saulsaulsaulsaulsaulsaulsaulsaulsaulsaulsaulsaulsaulsaulsaulsaulsaulsaulsaulsaulsaul"},
+{"key":"PST_BLT_Review","value":"@kaktus vc"},
+{"key":"PST_BLT_Computer","value":"saul game 3d worldwide release is in 2 days."},
+{"key":"PST_BLT_HeyKid","value":"IT'S FUN TO SHUT YOUR MOUTH!"},
+{"key":"PST_BLT_All","value":"IT'S FUN"},
+{"key":"PST_BLT_Fired","value":"99 do you get the reference its funny right"},
+{"key":"PST_BLT_Budget","value":"Budget overview:\nThere's no more money."},
+{"key":"PST_BLT_Hawaii","value":"URGENT: EVERYONE DIES TOMORROW"},
+
 
 {"key":"PST_PRI_Baldi1","value":"Saul"},
 {"key":"PST_PRI_Baldi2","value":"A mushroom is the fleshy, spore-bearing fruiting body of a fungus, typically produced above ground on soil or another food source."},
