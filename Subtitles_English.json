@@ -48,6 +48,7 @@
 
 {"key":"Itm_ZestyBar","value":"Calorie Flavored Broshi Bar"},
 {"key":"Itm_Lost_Book","value":"Lost DXA Diamond"},
+{"key":"Itm_Lost_Cards","value":"Lost Kaktus Hat"},
 {"key":"Itm_Lost_Puppet","value":"Lost Saul Themed Mug"},
 {"key":"Itm_Boots","value":"Luigi Slippers"},
 {"key":"Itm_Bsoda","value":"CSODA"},
@@ -108,7 +109,7 @@
 
 {"key":"PST_TXT_Recycle","value":"gigaleak"},
 
-{"key":"Vfx_NoL_CheckMap","value":"check yuo map to find kistol room"},
+{"key":"Vfx_NoL_CheckMap","value":"check yuo map to find hoshiko room"},
 {"key":"Vfx_NoL_ClassDismissed","value":"*unintelligable speech of thanks and joy*"},
 {"key":"Vfx_NoL_JustinTime","value":"you yes room yaey!"},
 {"key":"Vfx_NoL_Minutes","value":"minutes."},
@@ -123,8 +124,8 @@
 {"key":"Vfx_NoL_Nums_7","value":"7"},
 {"key":"Vfx_NoL_Nums_8","value":"8"},
 {"key":"Vfx_NoL_Nums_9","value":"9"},
-{"key":"Vfx_NoL_RemindingYou","value":"rebebmbebmer to come to kistol room"},
-{"key":"Vfx_NoL_Scream","value":"why weren't you in kistol room #####################"},
+{"key":"Vfx_NoL_RemindingYou","value":"rebebmbebmer to come to hoshiko room"},
+{"key":"Vfx_NoL_Scream","value":"why weren't you in hoshiko room #####################"},
 {"key":"Vfx_NoL_TimesUp","value":"you time is up"},
 {"key":"Vfx_NoL_YouThere","value":"haii human!"},
 {"key":"Sfx_CartoonKnock_Trimmed","value":"*CLANG*"},
@@ -172,8 +173,8 @@
 {"key":"PST_PRI_Crafters2","value":"They're very angry for really no reason."},
 {"key":"PST_PRI_Playtime1","value":"Evil Fucked Up"},
 {"key":"PST_PRI_Playtime2","value":"Play jumping josh with him for fun happy times!"},
-{"key":"PST_PRI_Pomp1","value":"Kistol"},
-{"key":"PST_PRI_Pomp2","value":"do not be late to kistol room practice or she will ###################"},
+{"key":"PST_PRI_Pomp1","value":"Hoshiko"},
+{"key":"PST_PRI_Pomp2","value":"do not be late to Hoshiko room practice or she will ###################"},
 {"key":"PST_PRI_Principal1","value":"Mr. Krupp"},
 {"key":"PST_PRI_Principal2","value":"\"If I see anyone having fun, they will be placed within the brazen bull!\""},
 {"key":"PST_PRI_Prize1","value":"Car of Tomorrow"},
