@@ -3,22 +3,22 @@
 
 {"key":"Name_Baldi","value":"Saul"},
 
-	{"key":"Men_TutorialPrompt","value":"tutorial"},
+{"key":"Men_TutorialPrompt","value":"tutorial"},
 {"key":"Men_MainDesc","value":"Play Hide-and-Seek with Saul! Can you beat all the levels without getting mutilated?"},
-{"key":"Men_ContDesc","value":"<color=green>Continue your game of Hide-and-Seek with  Saul!</color>"},
+{"key":"Men_ContDesc","value":"<color=green>Continue your game of Hide-and-Seek with Saul!</color>"},
 {"key":"Men_FreeDesc","value":"Mr. Gums finally found him."},
 {"key":"Men_TutorialDesc","value":"Learn absolutely nothing about the game."},
 {"key":"Men_ChallengeDesc","value":"Try your hand at one of Saul's crazy challenges! (NOTE: Please don't.)"},
 {"key":"Men_EndlessDesc","value":"Collect as many notebooks as you can before Saul mutilates you! Saul speeds up over time, but notebooks slow him down!"},
 {"key":"Men_FieldTripDesc","value":"Go to his forest!"},
 
-{"key":"Men_Warning","value":"<color=red>SAUL!</color>\nsaul's school deluxe is a mild <color=red>saul game</color> and this is not saul saulftware.\n\nWhile saul elements are relatively saul at this saul of the saul's development, there are still a few jumpsauls and other auls that might saul some sauls.\n\nPRESS {0} TO SAUL"},
-bb
-{"key":"Men_StealthyChallenge","value":"You've snuck in school after hours! Surely Krupp will get you some day. Use <color=red>dirty chalk erasers</color>, <color=red>lockers</color>, and your <color=red>map</color> to avoid being seen and collect 7 notebooks."},
-{"key":"Men_SpeedyChallenge","value":"Saul is fast, but Mr. Gums is always faster."},
-{"key":"Men_GrappleChallenge","value":"Saul may have broken your legs, but thankfully you're equipped with an infinite use <color=red>grappling hook</color>! See if you can outwit Saul and his friends when this is your only way to move!"},
+{"key":"Men_StealthyChallenge","value":"You've snuck in school after hours! Surely Krupp will get you some day. Hide from him using various items!"},
+{"key":"Men_SpeedyChallenge","value":"Saul is fast, but <color=red>Mr. Gums is always faster.</color>"},
+{"key":"Men_GrappleChallenge","value":"Saul may have broken your legs, but thankfully some random kid gifted you their <color=red>infinite use Sticky hand!</color>"},
 
-
+{"key":"Men_CampTrip","value":"See his forest!"},
+{"key":"Men_FarmTrip","value":"its gone"},
+{"key":"Men_TripWillReturn","value":"its gone"},
 
 {"key":"Notebooks","value":"{0} Noteboos"},
 
@@ -39,14 +39,14 @@ bb
 {"key":"Opt_LifeMode_Intense","value":"Strict"},
 {"key":"Opt_LifeMode_Explorer","value":"Saul was killed."},
 {"key":"Opt_Challenges","value":"Challenges"},
-{"key":"Opt_TimeLimitChallenge","value":"1 Minute Before he Arrives"},
+{"key":"Opt_TimeLimitChallenge","value":"1 Minute Arrival"},
 {"key":"Opt_MapChallenge","value":"Shredded Map"},
 {"key":"Opt_InventoryChallenge","value":"Inventory Tax"},
 
 {"key":"Tip_Challenges","value":"These settings change the game in ways to make it extra challenging!\nChanges to these settings only apply when starting a new game."},
 {"key":"Tip_TimeLimitChallenge","value":"Mr. Gums is arriving in one minute. Hurry up."},
 {"key":"Tip_MapChallenge","value":"Saul has taken your map and thrown it into the paper shredder!"},
-{"key":"Tip_InventoryChallenge","value":"Saul has decided to become an authoritarian dictator and is now taxing your inventory slots."},
+{"key":"Tip_InventoryChallenge","value":"Saul has decided to become an authoritarian dictator\nand is now taxing your inventory slots."},
 
 {"key":"Level_Type_Schoolhouse","value":"Saulhouse"},
 {"key":"Level_Type_Factory","value":"Clawhouse"},
@@ -59,7 +59,7 @@ bb
 {"key":"Itm_Lost_Puppet","value":"Lost Saul Themed Mug"},
 {"key":"Itm_Boots","value":"Luigi Slippers"},
 {"key":"Itm_Bsoda","value":"CSODA"},
-{"key":"Itm_DetentionKey","value":"Krupp's Keys"},
+{"key":"Itm_DetentionKey","value":"The Key"},
 {"key":"Itm_GrapplingHook","value":"Sticky Hand (5)"},
 {"key":"Itm_GrapplingHook4","value":"Slightly Less Sticky Hand (4)"},
 {"key":"Itm_GrapplingHook3","value":"Mostly Sticky Hand (3)"},
@@ -89,7 +89,7 @@ bb
 {"key":"Desc_Tape","value":"Saul School 3D CD\nFor some reason, if played on Krupp's PC,\nThis sends Saul into a frenzied rage where he walks\naround aimlessly. No one really knows why."},
 {"key":"Desc_Apple","value":"An Apple for Saul\nSaul's favorite apple!\n(Worm included free of charge!)"},
 {"key":"Desc_ChalkEraser","value":"Cloud in a Bottle\nCreate a big cloud to hide in with this little cloud in a bottle!\n(WARNING! DO NOT FEED IT BROSHI BARS.\nTHIS WILL DESTROY EVERYONE IN A 15 MILE RADIUS.)"},
-{"key":"Desc_Nametag","value":"Mr. Krupp's Tie\nOne of Krupp's favorite ties! Krupp isn't too bright,\n so he'll think you're him when you're wearing this. He'll never get you for approximately a minute!"},
+{"key":"Desc_Nametag","value":"Mr. Krupp's Tie\nOne of Krupp's favorite ties! Krupp isn't too bright,\n so he'll think you're him when you're wearing this. He'll never get you one day for approximately a minute!"},
 {"key":"Desc_DietBsoda","value":"Piet PSODA\n it tastes horrile"},
 {"key":"Desc_AlarmClock","value":"Alarm Clock\nSet this clock up and when it goes off, Saul will want to check it out!\nWhich implies he's unaware of what a clock is."},
 {"key":"Desc_Boots","value":"Luigi Slippers\nLil' Saul's Luigi Slippers are SO comfortable, you'll never be pushed again! \n(Until you lose them, of course.)"},
@@ -99,7 +99,7 @@ bb
 {"key":"Desc_Teleporter","value":"Strange Remote\nFound from the ruins of Saul's past school.\nNo clue what it does though, so I'm selling it!"},
 {"key":"Desc_PortalPoster","value":"Portal Painting\nIf you place this on a wall with a room behind it,\n This will create a quick and easy path to get to it.\nA super technology invented by God himself!"},
 {"key":"Desc_ZestyBar","value":"Calorie Flavored Broshi Bar\n contains enough calories for a day and a half of survival\nwill give you the energy to run faster for like 30 seconds\nand potentially diabetes."},
-{"key":"Desc_DetentionKey","value":"Krupp's Keys\nKrupp won't be pleased to know you can unlock any door in the building!"},
+{"key":"Desc_DetentionKey","value":"The Key\nA super powerful key that can unlock anything in the building AND challenge mode!"},
 {"key":"Desc_GrapplingHook","value":"Sticky Hand\n Throw this at a far away wall to quickly get pulled towards it.\nIt's not very durable though..."},
 {"key":"Desc_NoSquee","value":"Silly Sauce\n It's Addie's least favourite sauce, so she uses it to oil the doors instead.\nIt's surprisingly effective against everyone but Mr. Gums!"},
 {"key":"Desc_Plus25","value":"The green saul is worth 25 You Tried Points!"},
@@ -194,7 +194,7 @@ bb
 {"key":"PST_PRI_Test1","value":"Wall"},
 {"key":"PST_PRI_Test2","value":"Slows down time... Somehow."},
 {"key":"PST_PRI_Reflex1","value":"Dr. Rupture"},
-{"key":"PST_PRI_Reflex2","value":"\"My new game!"\"},
+{"key":"PST_PRI_Reflex2","value":"\"My new game!\""},
 
 {"key":"Vfx_Playtime_1","value":"1!"},
 {"key":"Vfx_Playtime_2","value":"2!"},
@@ -261,6 +261,7 @@ bb
 {"key":"Vfx_Sweep_GottaSweep","value":"GET OUT OF THE WAY!!!"},
 {"key":"Vfx_Sweep_Intro","value":"It's time to clock in!"},
 
+{"key":"PST_TXT_Inspiration","value":"<color=green>please continue reading the posters so i can </color><color=red>kill you in real life!!!!</color>"},
 {"key":"PST_CLS_BaldiSays1","value":"It's\n<b>FUN</b"},
 {"key":"PST_CLS_BaldiSays2","value":"it hurts!!!!!!!"},
 {"key":"PST_CLS_BaldiSays3","value":"Baby Saul will Return"},
@@ -271,7 +272,7 @@ bb
 {"key":"PST_CLS_BaldiSays8","value":"I must say,\nI do indeed feel\na lot of pain."},
 {"key":"PST_CLS_BaldiSays9","value":"priciple with a banan"},
 {"key":"PST_CLS_Numbers","value":"lua is SO EASY"},
-{"key":"PST_CLS_BaldiBuried","value":"Collect my noteboos"},
+{"key":"PST_CLS_BaldiBuried","value":"oh god oh fuck oh no"},
 
 {"key":"Sfx_Baldi_Slap","value":"YES"},
 {"key":"Sfx_Baldi_Break","value":"*WHEEZE*"},
